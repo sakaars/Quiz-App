@@ -1,12 +1,8 @@
 # Quiz Web App
 
-![GitHub](https://img.shields.io/github/license/alok-2002/Quizzify)
-![GitHub stars](https://img.shields.io/github/stars/alok-2002/Quizzify)
-![GitHub forks](https://img.shields.io/github/forks/alok-2002/Quizzify)
-
 This repository contains a Quiz Web App built using HTML, CSS, JavaScript, and the Open Trivia Database. The app allows users to test their knowledge by answering quiz questions from various categories.
 
-![image](https://github.com/Alok-2002/Quizzify/assets/93814546/8820d623-5e23-41c7-b86c-c58f656172da)
+![image](assets/icon.png)
 
 
 ## Features
@@ -31,7 +27,7 @@ To get started with the Quiz Web App, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Alok-2002/Quiz_Web_App_Using_HTML_CSS_And_Javascript
+   git clone git@github.com:sakaars/Quiz-App.git
    ```
 
 2. Open the project folder:
@@ -70,10 +66,6 @@ If you wish to customize the app, you can modify the following files:
 ## Contributions
 
 Contributions to this Quiz Web App are welcome! If you have any improvements or feature suggestions, feel free to open an issue or submit a pull request. Please make sure to follow the existing code style and guidelines.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to the terms of this license.
 
 ## Acknowledgements
 
